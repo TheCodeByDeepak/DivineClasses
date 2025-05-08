@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/DivineClasses/static/css/main.b1d6cec9.css",
-    "main.js": "/DivineClasses/static/js/main.0749781b.js",
+    "main.css": "/DivineClasses/static/css/main.81bf1744.css",
+    "main.js": "/DivineClasses/static/js/main.97e3b25e.js",
     "static/js/453.a36a347d.chunk.js": "/DivineClasses/static/js/453.a36a347d.chunk.js",
+    "static/media/logo.png": "/DivineClasses/static/media/logo.ab347cde508a920b62e2.png",
     "static/media/stu2.png": "/DivineClasses/static/media/stu2.d6672b70a6dd34e9cf43.png",
     "static/media/stu1.png": "/DivineClasses/static/media/stu1.61efc374c051aedae865.png",
     "static/media/stu3.png": "/DivineClasses/static/media/stu3.a5a6a18ac47db582c4e4.png",
     "static/media/img2.jpg": "/DivineClasses/static/media/img2.da238aca976ced41c9fe.jpg",
     "index.html": "/DivineClasses/index.html",
-    "main.b1d6cec9.css.map": "/DivineClasses/static/css/main.b1d6cec9.css.map",
-    "main.0749781b.js.map": "/DivineClasses/static/js/main.0749781b.js.map",
+    "main.81bf1744.css.map": "/DivineClasses/static/css/main.81bf1744.css.map",
+    "main.97e3b25e.js.map": "/DivineClasses/static/js/main.97e3b25e.js.map",
     "453.a36a347d.chunk.js.map": "/DivineClasses/static/js/453.a36a347d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d6cec9.css",
-    "static/js/main.0749781b.js"
+    "static/css/main.81bf1744.css",
+    "static/js/main.97e3b25e.js"
   ]
 }
