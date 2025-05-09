@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DivineClasses/static/css/main.a961e7e6.css",
-    "main.js": "/DivineClasses/static/js/main.b889ebdb.js",
+    "main.js": "/DivineClasses/static/js/main.a3bdc1e5.js",
     "static/js/453.a36a347d.chunk.js": "/DivineClasses/static/js/453.a36a347d.chunk.js",
     "static/media/logo.png": "/DivineClasses/static/media/logo.ab347cde508a920b62e2.png",
     "static/media/t4.jpg": "/DivineClasses/static/media/t4.cb7b5fc4d1b196c51101.jpg",
@@ -12,19 +12,19 @@
     "static/media/g3.jpg": "/DivineClasses/static/media/g3.e13185aa26d78c5d5ca2.jpg",
     "static/media/stu2.jpg": "/DivineClasses/static/media/stu2.24aa449293e74f537607.jpg",
     "static/media/g4.jpg": "/DivineClasses/static/media/g4.77237b49d403334958a5.jpg",
-    "static/media/stu3.jpg": "/DivineClasses/static/media/stu3.33793101e74b4c1e51d1.jpg",
     "static/media/t2.jpg": "/DivineClasses/static/media/t2.ab363555ca18b907f07b.jpg",
     "static/media/t3.jpg": "/DivineClasses/static/media/t3.2626909540eb0934189b.jpg",
+    "static/media/stu3.jpg": "/DivineClasses/static/media/stu3.e8ddecf7574201a049ac.jpg",
     "static/media/t1.jpg": "/DivineClasses/static/media/t1.1200dc451bcd04cdc9ee.jpg",
     "static/media/banner.jpg": "/DivineClasses/static/media/banner.da238aca976ced41c9fe.jpg",
     "static/media/founder.jpg": "/DivineClasses/static/media/founder.9018da0504e994bf0475.jpg",
     "index.html": "/DivineClasses/index.html",
     "main.a961e7e6.css.map": "/DivineClasses/static/css/main.a961e7e6.css.map",
-    "main.b889ebdb.js.map": "/DivineClasses/static/js/main.b889ebdb.js.map",
+    "main.a3bdc1e5.js.map": "/DivineClasses/static/js/main.a3bdc1e5.js.map",
     "453.a36a347d.chunk.js.map": "/DivineClasses/static/js/453.a36a347d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a961e7e6.css",
-    "static/js/main.b889ebdb.js"
+    "static/js/main.a3bdc1e5.js"
   ]
 }
