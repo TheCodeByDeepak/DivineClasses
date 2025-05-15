@@ -38,6 +38,6 @@ Explore the redesigned Divine Classes web page here:
 
 - **React.js**
 - **HTML5**
-- **CSS3**
+- **Tailwind**
 - **JavaScript**
 - **GitHub Pages**
